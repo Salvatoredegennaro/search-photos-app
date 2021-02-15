@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/search-photos-app/static/css/main.6f4f596e.chunk.css",
+    "main.js": "/search-photos-app/static/js/main.06adb0cf.chunk.js",
+    "main.js.map": "/search-photos-app/static/js/main.06adb0cf.chunk.js.map",
+    "runtime-main.js": "/search-photos-app/static/js/runtime-main.0b82c344.js",
+    "runtime-main.js.map": "/search-photos-app/static/js/runtime-main.0b82c344.js.map",
+    "static/js/2.d2886eb0.chunk.js": "/search-photos-app/static/js/2.d2886eb0.chunk.js",
+    "static/js/2.d2886eb0.chunk.js.map": "/search-photos-app/static/js/2.d2886eb0.chunk.js.map",
+    "index.html": "/search-photos-app/index.html",
+    "static/css/main.6f4f596e.chunk.css.map": "/search-photos-app/static/css/main.6f4f596e.chunk.css.map",
+    "static/js/2.d2886eb0.chunk.js.LICENSE.txt": "/search-photos-app/static/js/2.d2886eb0.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/search-photos-app/static/media/forest.799a30b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b82c344.js",
+    "static/js/2.d2886eb0.chunk.js",
+    "static/css/main.6f4f596e.chunk.css",
+    "static/js/main.06adb0cf.chunk.js"
+  ]
+}
